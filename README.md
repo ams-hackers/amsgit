@@ -1,5 +1,7 @@
 # An educational partial reimplementation of Git
 
+Plan:
+
 - Entities
 
   - commits
